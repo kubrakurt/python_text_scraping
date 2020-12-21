@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://miro.medium.com/max/875/1*6UJ9Bp0rKcGJ9W0mfH-nDw.png" /> </p>
+<p align="left"> <img src="https://github.com/kubrakurt/python_text_scraping/blob/main/Python%20ile%20Vikipedi%20%26%20Haber%20Sitelerinden%20Metin%20Kaz%C4%B1ma.png" /> </p>
 
 # [Medium](https://kubrakurt.medium.com/python-ile-vikipedi-haber-sitelerinden-metin-kaz%C4%B1ma-7a64f2e0e3a2)
 # *Python ile Vikipedi & Haber Sitelerinden Metin Kazıma*
