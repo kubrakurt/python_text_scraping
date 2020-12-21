@@ -5,3 +5,7 @@
 ## 1. Vikipedi Üzerinden “Wikipedia” Kütüphanesi ile Metin Kazıma
 ## 2. Vikipedi Üzerinden Metinleri Türkçe Kazıma
 ## 3. Haber Sitesinden Metin Kazıma
+
+## *Kaynaklar:*
+## [1][Python’da BeautifulSoup ile Web Scraping nasıl yapılır? — Google Arama Sonuçları Çekme](https://www.mertmekatronik.com/pythonda-beautifulsoup-ile-web-scraping)
+## [2][Two simple ways to scrape text from Wikipedia in Python](https://levelup.gitconnected.com/two-simple-ways-to-scrape-text-from-wikipedia-in-python-9ce07426579b)
