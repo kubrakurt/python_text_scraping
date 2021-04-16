@@ -8,8 +8,9 @@
 
 ## Medium
 
-# [Python ile Vikipedi & Haber Sitelerinden Metin Kazıma](https://kubrakurt.medium.com/python-ile-vikipedi-haber-sitelerinden-metin-kaz%C4%B1ma-7a64f2e0e3a2)
+* [Python ile Vikipedi & Haber Sitelerinden Metin Kazıma](https://kubrakurt.medium.com/python-ile-vikipedi-haber-sitelerinden-metin-kaz%C4%B1ma-7a64f2e0e3a2)
 
 ## Kaynaklar
+
 * [Python’da BeautifulSoup ile Web Scraping nasıl yapılır? — Google Arama Sonuçları Çekme](https://www.mertmekatronik.com/pythonda-beautifulsoup-ile-web-scraping)
 * [Two simple ways to scrape text from Wikipedia in Python](https://levelup.gitconnected.com/two-simple-ways-to-scrape-text-from-wikipedia-in-python-9ce07426579b)
